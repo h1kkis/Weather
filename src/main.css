@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: "Figtree", sans-serif;
+    width: 100%;
+    min-height: 100vh;
+    background: linear-gradient(90deg, rgba(19,14,93,1) 0%, rgba(125,125,233,1) 42%, rgba(92,208,232,1) 73%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
